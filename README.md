@@ -1,2 +1,6 @@
 # Kopi Nusantara
-Website profil UMKM kopi fiktif yang di kembangkan oleh Bakil Tsaqif.
+Kelompok:
+Bakil Tsaqif
+Devi Eriza
+Cut Inas
+Andrian Fuadi
